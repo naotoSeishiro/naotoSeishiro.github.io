@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    text-align:center;
+}
+
+nav ul li {
+    padding: 10px;
+    margin: 0px auto;
+    display: inline-block;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+
+#logo img{
+    max-width: 200px;
+    border: 5px solid;
+    border-color: gray;
+}
+
+body{
+    text-align: center;
+}
+
+body section{
+    padding: 50px;
+}
+
+body section h3{
+    padding:10px;
+    text-decoration: none;
+}
+
+body section p a{
+    text-decoration: none;
+}
